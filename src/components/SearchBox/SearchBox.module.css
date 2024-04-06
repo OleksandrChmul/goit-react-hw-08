@@ -1,0 +1,19 @@
+.searchBar {
+  width: 392px;
+  padding: 8px 16px;
+  margin-top: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  margin-bottom: 16px;
+  border: 1px solid #000;
+  border-radius: 8px;
+}
+
+.textInput {
+  border: 4px double black;
+  border-radius: 8px;
+  width: 360px;
+  height: 36px;
+}
